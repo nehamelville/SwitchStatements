@@ -1,0 +1,13 @@
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.deps.json
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.dll
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.pdb
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.dll
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.pdb
+/Users/neha.melville/Desktop/Repo/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.genruntimeconfig.cache
